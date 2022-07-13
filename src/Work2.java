@@ -8,7 +8,7 @@ public class Work2 {
         byte a = 10 ;
         short b = 75 ;
         int c = 102 ;
-        long d = 200 ;
+        long d = 200L ;
         float e = 4.5f ;
         double f = 1.56 ;
         boolean g = true;
